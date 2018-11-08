@@ -1,12 +1,12 @@
  {
     "author" : "PseudoDeAuteur", 
-    "name" : "Nom du Thème", 
+    "name" : "Nom du ThÃ¨me", 
     "keyWords" : "keyword1,keyword2",
     "version" : "1.0.0",
     "dofusVersion" : "2.42", 
-    "description" : "Description de mon thème", 
+    "description" : "Description de mon thÃ¨me", 
     "url" : "http://mywebsite.com/mytheme.zip",
-    "previewUrl" : "http://mywebsite.com/preview.jpg", 
+    "previewUrl" : "https://raw.githubusercontent.com/beubeuzerte/Zerte/master/Zerte.zip", 
     "creationDate" : "08/11/2018", 
     "modificationDate" : "08/11/2018"
     } 
