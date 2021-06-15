@@ -1,0 +1,12 @@
+ {
+    "author" : "PseudoDeAuteur", 
+    "name" : "Nom du Thème", 
+    "keyWords" : "keyword1,keyword2",
+    "version" : "1.0.0",
+    "dofusVersion" : "2.42", 
+    "description" : "Description de mon thème", 
+    "url" : "http://mywebsite.com/mytheme.zip",
+    "previewUrl" : "http://mywebsite.com/preview.jpg", 
+    "creationDate" : "JJ/MM/AAAA", 
+    "modificationDate" : "JJ/MM/AAAA"
+    } 
